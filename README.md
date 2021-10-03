@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vincent Ferrer</h1>
+
+<p> <img align="center" src="profile gif_1.gif" width="500" height="500" /> </p> 
+
 <h3 align="center">A student aiming to be a full - stack developer and designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinneyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="vinneyyyy" /> </p>
