@@ -7,7 +7,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=plm-vincent.plm-vincent) ![GitHub followers](https://img.shields.io/github/followers/plm-vincent?style=social)       
 <h2> Hello, I'm Vincent Ferrer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !</h2>
 
-I am a first year college student taking a Bachelor's degree in Computer Science at Pamantasan ng Lungsod ng Maynila. I have a passion in learning and improving my  coding skills, as well as my designing skills.
+I am a second year college student taking a Bachelor's degree in Computer Science at Pamantasan ng Lungsod ng Maynila. I have a passion in learning and improving my  coding skills, as well as my designing skills.
 
 I discovered programming from my older brother because he was a data scientist. I explored more about programming when I was bored during the lockdown because of Covid. I started learning Python first and I was hooked. I started learning more about programming and I found out that I really like it. I am currently learning web development and I am also learning how to design.
 
