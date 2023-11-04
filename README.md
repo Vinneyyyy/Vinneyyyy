@@ -1,29 +1,28 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vincent.</h1>
+<h1 align="center" style="font-family: Montserrat; font-weight: normal"> Hi , I'm Vincent <img src="https://d14eu5yur8w3te.cloudfront.net/api/v1/media/baseclub-media-uploads-production/f7e4b59f-7d1b-4a37-a8a6-cf43c3cc9f77.gif" width="40px"> </h1>
 
-<p align="center"> <img src="profile gif_1.gif" width="500" height="500" /> </p> 
+<p align="center"> <img src="banner.gif"/> </p> 
 
-<h3 align="center">A student aiming to be a full - stack developer and designer.</h3>
+<h3 align="center"> A computer science student from Manila aiming to be a full - stack developer and designer. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinneyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="vinneyyyy" /> </p>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=plm-vincent.plm-vincent) ![GitHub followers](https://img.shields.io/github/followers/plm-vincent?style=social)       
+<h2> Hello, I'm Vincent Ferrer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !</h2>
 
-- 🔭 I’m currently working on [a School Website ʕっ• ᴥ • ʔっ](https://maroxashs.com/)
+I am a first year college student taking a Bachelor's degree in Computer Science at Pamantasan ng Lungsod ng Maynila. I have a passion in learning and improving my  coding skills, as well as my designing skills.
 
-- 🌱 I’m currently learning **✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧ Python and Javascript ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧**
+I discovered programming from my older brother because he was a data scientist. I explored more about programming when I was bored during the lockdown because of Covid. I started learning Python first and I was hooked. I started learning more about programming and I found out that I really like it. I am currently learning web development and I am also learning how to design.
 
-- 💬 Ask me about **HTML, and CSS (´,,•ω•,,)♡**
+### 🔧 Programming Tools    :
+![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Tracker-Git-informational?style=flat&logo=git&logoColor=white&color=60A3D9) 
 
-- 📫 How to reach me **https://www.facebook.com/vinneeeey/**
+### 📚 Frameworks and Libraries:
+![](https://img.shields.io/badge/CSS_Framework-Boostrap-informational?style=flat&logo=bootstrap&logoColor=white&color=60A3D9) 
 
-- ⚡ Fun fact **I'm a night owl (❁ ˵◡ ‿ ◡˵)**
+### 🎥 Designing Tools:
+![](https://img.shields.io/badge/Video-After_Effects-informational?style=flat&logo=adobeaftereffects&logoColor=white&color=60A3D9) ![](https://img.shields.io/badge/Images-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=60A3D9)    
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬 Get in touch with me</h3>
 <p align="left">
-<a href="https://www.facebook.com/vinneeeey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="made.for.hann" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vnferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vnferrer" height="30" width="40" /></a>
+<a href="https://fb.com/vinneeeey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinneeeey" height="30" width="40" /></a>
+<a href="https://instagram.com/aki_iiiiiiiiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aki_iiiiiiiiiiii" height="30" width="40" /></a>
 </p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="t"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p align="center"> <img src="https://i.pinimg.com/originals/8e/43/d9/8e43d93616fc56852c572ca606b8326a.gif" height="400px"/> </p>
-
-<p align="center"> One more thing, I'm always sleepy ヽ(⌒∪⌒)ゝ </p>
